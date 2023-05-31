@@ -33,9 +33,9 @@ export default function Footer() {
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
-          href="https://twitter.com/nutlope"
+          href="https://twitter.com/searchone_lens"
           className="group"
-          aria-label="TaxPal on Twitter"
+          aria-label="searchOne on Twitter"
         >
           <svg
             aria-hidden="true"
@@ -45,9 +45,9 @@ export default function Footer() {
           </svg>
         </Link>
         <Link
-          href="https://github.com/Nutlope/roomGPT"
+          href="https://github.com/search1ne/roomvision"
           className="group"
-          aria-label="TaxPal on GitHub"
+          aria-label="search1ne on GitHub"
         >
           <svg
             aria-hidden="true"
